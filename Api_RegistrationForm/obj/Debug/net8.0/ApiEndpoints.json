@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "Api_RegistrationForm.Controllers.RegistrationFormController",
+    "Method": "CreateUser",
+    "RelativePath": "api/RegistrationForm/CreateUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Models.Dtos.CreateUserRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api_RegistrationForm.Controllers.RegistrationFormController",
+    "Method": "GetUsers",
+    "RelativePath": "api/RegistrationForm/GetUsers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
